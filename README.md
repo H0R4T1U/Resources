@@ -13,6 +13,7 @@ A collection of links and payloads I stored for quick access
 ### Windows Privillage Escalation
 - [**NTLM Theft**](https://book.hacktricks.xyz/windows-hardening/ntlm/places-to-steal-ntlm-creds)
 - [**Windows Local Privillage Escalation**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation#krbrelayup)
+- [**Windows Local Privillage Escalation Checklist**](https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation)
 - [**Juicy Potato Exploit**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/juicypotato)
 - [**Pass The Hash**](https://www.netwrix.com/pass_the_hash_attack_explained.html)
 ## Hash Cracking
@@ -42,6 +43,7 @@ A collection of links and payloads I stored for quick access
 - [**SQL Map**](https://github.com/sqlmapproject/sqlmap)
 - [**XSS Strike**](https://github.com/s0md3v/XSStrike)
 - [**ffuf**](https://github.com/ffuf/ffuf)
+- [**WinPeas**](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
 # Payloads
 ## Local Webserver
 
