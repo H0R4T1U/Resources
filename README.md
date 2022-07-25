@@ -1,6 +1,9 @@
 # Resources
 A collection of links and payloads I stored for quick access
 # LINKS
+- [**Pentesting Map**](https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/)
+- [**Bug Bounty Writeups**](https://hackerone.com/hacktivity)
+- [**Bug Bounty Cheatsheat**](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [**NTLM Theft**](https://book.hacktricks.xyz/windows-hardening/ntlm/places-to-steal-ntlm-creds)
 - [**Server SideTemplate Injection Payloads**](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
 - [**Jenkins Pentesting**](https://book.hacktricks.xyz/cloud-security/jenkins#code-execution)
