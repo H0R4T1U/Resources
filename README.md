@@ -35,7 +35,7 @@ A collection of links and payloads I stored for quick access
 ## Shells
 - [**Webshells**](https://github.com/BlackArch/webshells)
 - [**Reverse Shell Generator**](https://www.revshells.com/)
-
+- [**NC.EXE**](https://github.com/int0x33/nc.exe/blob/master/nc.exe)
 ## Tools
 - [**SecLists**](https://github.com/danielmiessler/SecLists)
 - [**Responder**](https://github.com/SpiderLabs/Responder)
@@ -44,6 +44,7 @@ A collection of links and payloads I stored for quick access
 - [**XSS Strike**](https://github.com/s0md3v/XSStrike)
 - [**ffuf**](https://github.com/ffuf/ffuf)
 - [**WinPeas**](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
+
 # Payloads
 ## Local Webserver
 
