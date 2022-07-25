@@ -1,27 +1,38 @@
 # Resources
 A collection of links and payloads I stored for quick access
 # LINKS
+## Overviews
 - [**Pentesting Map**](https://www.offensity.com/en/blog/just-another-recon-guide-pentesters-and-bug-bounty-hunters/)
 - [**Bug Bounty Writeups**](https://hackerone.com/hacktivity)
 - [**Bug Bounty Cheatsheat**](https://github.com/EdOverflow/bugbounty-cheatsheet)
+
+## Windows Privillage Escalation
 - [**NTLM Theft**](https://book.hacktricks.xyz/windows-hardening/ntlm/places-to-steal-ntlm-creds)
-- [**Server SideTemplate Injection Payloads**](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
-- [**Jenkins Pentesting**](https://book.hacktricks.xyz/cloud-security/jenkins#code-execution)
-- [**SecLists**](https://github.com/danielmiessler/SecLists)
-- [**Payloads Of All Things**](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [**MSSQL Pentesting**](https://book.hacktricks.xyz/network-services-pentesting/pentesting-mssql-microsoft-sql-server)
-- [**MSSQL Injection Cheatsheat**](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
-- [**XP_cmdshell cheatsheat**](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/)
 - [**Impacket mssqlclient Reverse Shell**](https://rioasmara.com/2020/05/30/impacket-mssqlclient-reverse-shell/)
 - [**Windows Local Privillage Escalation**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation#krbrelayup)
--  [**Juicy Potato Exploit**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/juicypotato)
+- [**Juicy Potato Exploit**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/juicypotato)
+
+## Hash Cracking
 -  [**Pass The Hash**](https://www.netwrix.com/pass_the_hash_attack_explained.html)
 -  [**HashCat Beginner Guide**](https://resources.infosecinstitute.com/topic/hashcat-tutorial-beginners/)
 -  [**Hash Analyzer**](https://www.tunnelsup.com/hash-analyzer/)
 -  [**Zip and rar Cracking with john**](https://dfir.science/2014/07/how-to-cracking-zip-and-rar-protected.html)
--  [**Reverse Shell Generator**](https://www.revshells.com/)
+
+## Payloads
+- [**Server SideTemplate Injection Payloads**](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
+- [**Jenkins Pentesting**](https://book.hacktricks.xyz/cloud-security/jenkins#code-execution)
+- [**SecLists**](https://github.com/danielmiessler/SecLists)
+- [**Payloads Of All Things**](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [**MSSQL Injection Cheatsheat**](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
+- [**XP_cmdshell cheatsheat**](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/)
+
+## Linux Privillage Escalation
 -  [**GTFO bins**](https://gtfobins.github.io/)
+
+## Shells
 -  [**Webshells**](https://github.com/BlackArch/webshells)
+-  [**Reverse Shell Generator**](https://www.revshells.com/)
 
 # Payloads
 ## Local Webserver
