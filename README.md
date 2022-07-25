@@ -7,10 +7,11 @@ A collection of links and payloads I stored for quick access
 - [**Bug Bounty Cheatsheat**](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 ## Windows Pentesting
-- [**NTLM Theft**](https://book.hacktricks.xyz/windows-hardening/ntlm/places-to-steal-ntlm-creds)
+### Microsoft SQL Server 
 - [**MSSQL Pentesting**](https://book.hacktricks.xyz/network-services-pentesting/pentesting-mssql-microsoft-sql-server)
 - [**Impacket mssqlclient Reverse Shell**](https://rioasmara.com/2020/05/30/impacket-mssqlclient-reverse-shell/)
 ### Windows Privillage Escalation
+- [**NTLM Theft**](https://book.hacktricks.xyz/windows-hardening/ntlm/places-to-steal-ntlm-creds)
 - [**Windows Local Privillage Escalation**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation#krbrelayup)
 - [**Juicy Potato Exploit**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/juicypotato)
 - [**Pass The Hash**](https://www.netwrix.com/pass_the_hash_attack_explained.html)
