@@ -31,9 +31,9 @@ A collection of links and payloads I stored for quick access
 - [**XP_cmdshell cheatsheat**](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/)
 
 ## Linux Privillage Escalation
-- [**GTFO bins **](https://gtfobins.github.io/)
-- [**LXD Privillage Escalation **]("https://www.hackingarticles.in/lxd-privilege-escalation/")
-- [**LXD Exploatation **](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
+- [**GTFO bins**](https://gtfobins.github.io/)
+- [**LXD Privillage Escalation**]("https://www.hackingarticles.in/lxd-privilege-escalation/")
+- [**LXD Exploatation**](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
 ## Shells
 - [**Webshells**](https://github.com/BlackArch/webshells)
 - [**Reverse Shell Generator**](https://www.revshells.com/)
