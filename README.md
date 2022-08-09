@@ -21,7 +21,8 @@ A collection of links and payloads I stored for quick access
 - [**HashCat Beginner Guide**](https://resources.infosecinstitute.com/topic/hashcat-tutorial-beginners/)
 - [**Hash Analyzer**](https://www.tunnelsup.com/hash-analyzer/)
 - [**Zip and rar Cracking with john**](https://dfir.science/2014/07/how-to-cracking-zip-and-rar-protected.html)
-
+## Log4J
+- [** Log4j Exploatation**](https://www.sprocketsecurity.com/resources/another-log4j-on-the-fire-unifi)
 ## Payloads
 - [**Server SideTemplate Injection Payloads**](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
 - [**Jenkins Pentesting**](https://book.hacktricks.xyz/cloud-security/jenkins#code-execution)
@@ -30,8 +31,9 @@ A collection of links and payloads I stored for quick access
 - [**XP_cmdshell cheatsheat**](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/)
 
 ## Linux Privillage Escalation
-- [**GTFO bins**](https://gtfobins.github.io/)
-
+- [**GTFO bins **](https://gtfobins.github.io/)
+- [** LXD Privillage Escalation **]("https://www.hackingarticles.in/lxd-privilege-escalation/")
+- [** LXD Exploatation **](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
 ## Shells
 - [**Webshells**](https://github.com/BlackArch/webshells)
 - [**Reverse Shell Generator**](https://www.revshells.com/)
@@ -44,7 +46,7 @@ A collection of links and payloads I stored for quick access
 - [**XSS Strike**](https://github.com/s0md3v/XSStrike)
 - [**ffuf**](https://github.com/ffuf/ffuf)
 - [**WinPeas**](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
-
+- [** Rogue JNDI **](https://github.com/veracode-research/rogue-jndi)
 # Payloads
 ## Local Webserver
 
