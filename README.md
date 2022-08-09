@@ -32,7 +32,7 @@ A collection of links and payloads I stored for quick access
 
 ## Linux Privillage Escalation
 - [**GTFO bins**](https://gtfobins.github.io/)
-- [**LXD Privillage Escalation**]("https://www.hackingarticles.in/lxd-privilege-escalation/")
+- [**LXD Privillage Escalation**](https://www.hackingarticles.in/lxd-privilege-escalation/)
 - [**LXD Exploatation**](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
 ## Shells
 - [**Webshells**](https://github.com/BlackArch/webshells)
