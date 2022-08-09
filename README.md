@@ -22,7 +22,7 @@ A collection of links and payloads I stored for quick access
 - [**Hash Analyzer**](https://www.tunnelsup.com/hash-analyzer/)
 - [**Zip and rar Cracking with john**](https://dfir.science/2014/07/how-to-cracking-zip-and-rar-protected.html)
 ## Log4J
-- [** Log4j Exploatation**](https://www.sprocketsecurity.com/resources/another-log4j-on-the-fire-unifi)
+- [**Log4j Exploatation**](https://www.sprocketsecurity.com/resources/another-log4j-on-the-fire-unifi)
 ## Payloads
 - [**Server SideTemplate Injection Payloads**](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
 - [**Jenkins Pentesting**](https://book.hacktricks.xyz/cloud-security/jenkins#code-execution)
@@ -32,8 +32,8 @@ A collection of links and payloads I stored for quick access
 
 ## Linux Privillage Escalation
 - [**GTFO bins **](https://gtfobins.github.io/)
-- [** LXD Privillage Escalation **]("https://www.hackingarticles.in/lxd-privilege-escalation/")
-- [** LXD Exploatation **](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
+- [**LXD Privillage Escalation **]("https://www.hackingarticles.in/lxd-privilege-escalation/")
+- [**LXD Exploatation **](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
 ## Shells
 - [**Webshells**](https://github.com/BlackArch/webshells)
 - [**Reverse Shell Generator**](https://www.revshells.com/)
