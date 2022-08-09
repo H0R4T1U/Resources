@@ -46,7 +46,7 @@ A collection of links and payloads I stored for quick access
 - [**XSS Strike**](https://github.com/s0md3v/XSStrike)
 - [**ffuf**](https://github.com/ffuf/ffuf)
 - [**WinPeas**](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
-- [** Rogue JNDI **](https://github.com/veracode-research/rogue-jndi)
+- [**Rogue JNDI**](https://github.com/veracode-research/rogue-jndi)
 # Payloads
 ## Local Webserver
 
