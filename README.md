@@ -24,6 +24,7 @@ A collection of links and payloads I stored for quick access
 ## Log4J
 - [**Log4j Exploatation**](https://www.sprocketsecurity.com/resources/another-log4j-on-the-fire-unifi)
 ## Payloads
+- [**Apache Tomcat RCE through WAR file**](https://null-byte.wonderhowto.com/how-to/hack-apache-tomcat-via-malicious-war-file-upload-0202593/)
 - [**Server SideTemplate Injection Payloads**](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
 - [**Jenkins Pentesting**](https://book.hacktricks.xyz/cloud-security/jenkins#code-execution)
 - [**Payloads Of All Things**](https://github.com/swisskyrepo/PayloadsAllTheThings)
@@ -47,6 +48,9 @@ A collection of links and payloads I stored for quick access
 - [**ffuf**](https://github.com/ffuf/ffuf)
 - [**WinPeas**](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
 - [**Rogue JNDI**](https://github.com/veracode-research/rogue-jndi)
+- [**RsaCtfTool**](https://github.com/RsaCtfTool/RsaCtfTool)
+- [**Ghidra**](https://github.com/NationalSecurityAgency/ghidra/releases)
+- [**OllyDBG**](https://www.ollydbg.de/)
 # Payloads
 ## Local Webserver
 
