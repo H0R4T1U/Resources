@@ -30,6 +30,9 @@ A collection of links and payloads I stored for quick access
 - [**Payloads Of All Things**](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [**MSSQL Injection Cheatsheat**](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
 - [**XP_cmdshell cheatsheat**](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/)
+## Reverse Engineering
+- [**Write-up for ROP exploit**](https://shakuganz.com/2021/06/08/hackthebox-you-know-0xdiablos-write-up/)
+- [**Return Oriented Programing**](https://bufferoverflows.net/rop-manual-exploitation-on-x32-linux/)
 
 ## Linux Privillage Escalation
 - [**GTFO bins**](https://gtfobins.github.io/)
@@ -51,6 +54,7 @@ A collection of links and payloads I stored for quick access
 - [**RsaCtfTool**](https://github.com/RsaCtfTool/RsaCtfTool)
 - [**Ghidra**](https://github.com/NationalSecurityAgency/ghidra/releases)
 - [**OllyDBG**](https://www.ollydbg.de/)
+- [**checksec**](https://github.com/slimm609/checksec.sh)
 # Payloads
 ## Local Webserver
 
