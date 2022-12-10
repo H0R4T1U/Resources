@@ -65,7 +65,6 @@ feroxbuster -eknr --wordlist $HOME/tools/crimson/words/dir -u https://<target_do
 cat ferox.txt | grep 200 | grep -v "png\|\.js" | cut -d "h" -f2-100 | sed "s/^/h/g" >> urls.txt
 for url in $(cat urls.txt); do echo $url && cewl -d 5 $url >> temp_cewl.txt;done
 cat temp_cewl.txt | sort -u >> cewl.txt && rm temp_cewl.txt
-3. GO TO BURP AND SELECT ALL 200 NON STATIC SITES
 ```
 ## Nmap
 ### Null Scan 
