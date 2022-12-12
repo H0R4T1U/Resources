@@ -30,6 +30,7 @@ A collection of links and payloads I stored for quick access
 - [**Payloads Of All Things**](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [**MSSQL Injection Cheatsheat**](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
 - [**XP_cmdshell cheatsheat**](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/)
+- [**LOCAL FILE INCLUSION**](https://book.hacktricks.xyz/pentesting-web/file-inclusion)
 ## Reverse Engineering
 - [**Write-up for ROP exploit**](https://shakuganz.com/2021/06/08/hackthebox-you-know-0xdiablos-write-up/)
 - [**Return Oriented Programing**](https://bufferoverflows.net/rop-manual-exploitation-on-x32-linux/)
@@ -38,6 +39,14 @@ A collection of links and payloads I stored for quick access
 - [**GTFO bins**](https://gtfobins.github.io/)
 - [**LXD Privillage Escalation**](https://www.hackingarticles.in/lxd-privilege-escalation/)
 - [**LXD Exploatation**](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
+- [**Escape from Restrictd Shells**](https://0xffsec.com/handbook/shells/restricted-shells/)
+## PIVOTING && TUNNELING
+- [**Pivoting with Chisel**](https://ap3x.github.io/posts/pivoting-with-chisel/)
+- [**Tunneling with Chisel and SSF 0XDF**](https://0xdf.gitlab.io/2020/08/10/tunneling-with-chisel-and-ssf-update.html)
+- [**NOTES ABOUT TUnneling and Pivoting**](https://0xdf.gitlab.io/2019/01/28/pwk-notes-tunneling-update1.html)
+- [**SSH Tunneling**](https://0xdf.gitlab.io/2018/06/10/intro-to-ssh-tunneling.html)
+- [**Shades of Tunneling Article**](https://karol-mazurek95.medium.com/the-shades-of-tunneling-a8b6ce1d7fed)
+- [**Tunneling and Port FOrwarding**](https://book.hacktricks.xyz/generic-methodologies-and-resources/tunneling-and-port-forwarding#chisel)
 ## Shells
 - [**Webshells**](https://github.com/BlackArch/webshells)
 - [**Reverse Shell Generator**](https://www.revshells.com/)
@@ -55,7 +64,10 @@ A collection of links and payloads I stored for quick access
 - [**Ghidra**](https://github.com/NationalSecurityAgency/ghidra/releases)
 - [**OllyDBG**](https://www.ollydbg.de/)
 - [**checksec**](https://github.com/slimm609/checksec.sh)
+- [**LaZagne**](https://github.com/AlessandroZ/LaZagne)
 # Payloads
+## PHP Wrapper
+```php://filter/convert.base64-encode/resource=```
 ## Profiling Password Lists
 ### CEWL
 ```ULTIMATE WAY OF CREATING A WORDLIST
