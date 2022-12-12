@@ -40,6 +40,7 @@ A collection of links and payloads I stored for quick access
 - [**LXD Privillage Escalation**](https://www.hackingarticles.in/lxd-privilege-escalation/)
 - [**LXD Exploatation**](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
 - [**Escape from Restrictd Shells**](https://0xffsec.com/handbook/shells/restricted-shells/)
+- [**Traitor**](https://github.com/liamg/traitor)
 ## PIVOTING && TUNNELING
 - [**Pivoting with Chisel**](https://ap3x.github.io/posts/pivoting-with-chisel/)
 - [**Tunneling with Chisel and SSF 0XDF**](https://0xdf.gitlab.io/2020/08/10/tunneling-with-chisel-and-ssf-update.html)
