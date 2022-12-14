@@ -31,6 +31,7 @@ A collection of links and payloads I stored for quick access
 - [**MSSQL Injection Cheatsheat**](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)
 - [**XP_cmdshell cheatsheat**](https://www.hackingarticles.in/mssql-for-pentester-command-execution-with-xp_cmdshell/)
 - [**LOCAL FILE INCLUSION**](https://book.hacktricks.xyz/pentesting-web/file-inclusion)
+- [**Python Library Hijacking**](https://medium.com/@klockw3rk/privilege-escalation-hijacking-python-library-2a0e92a45ca7)
 ## Reverse Engineering
 - [**Write-up for ROP exploit**](https://shakuganz.com/2021/06/08/hackthebox-you-know-0xdiablos-write-up/)
 - [**Return Oriented Programing**](https://bufferoverflows.net/rop-manual-exploitation-on-x32-linux/)
@@ -41,6 +42,7 @@ A collection of links and payloads I stored for quick access
 - [**LXD Exploatation**](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
 - [**Escape from Restrictd Shells**](https://0xffsec.com/handbook/shells/restricted-shells/)
 - [**Traitor**](https://github.com/liamg/traitor)
+- [**Python Library Hijacking on Linux**](https://medium.com/analytics-vidhya/python-library-hijacking-on-linux-with-examples-a31e6a9860c8)
 ## PIVOTING && TUNNELING
 - [**Pivoting with Chisel**](https://ap3x.github.io/posts/pivoting-with-chisel/)
 - [**Tunneling with Chisel and SSF 0XDF**](https://0xdf.gitlab.io/2020/08/10/tunneling-with-chisel-and-ssf-update.html)
