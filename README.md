@@ -15,7 +15,10 @@ A collection of links and payloads I stored for quick access
 - [**Windows Local Privillage Escalation**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation#krbrelayup)
 - [**Windows Local Privillage Escalation Checklist**](https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation)
 - [**Juicy Potato Exploit**](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation/juicypotato)
+- [** Potatoes **](https://jlajara.gitlab.io/Potatoes_Windows_Privesc#sweetPotato)
 - [**Pass The Hash**](https://www.netwrix.com/pass_the_hash_attack_explained.html)
+- [**Print Spoofer**](https://github.com/itm4n/PrintSpoofer)
+- [** Sweet Potato **](https://github.com/uknowsec/SweetPotato)
 ## Hash Cracking
 
 - [**HashCat Beginner Guide**](https://resources.infosecinstitute.com/topic/hashcat-tutorial-beginners/)
