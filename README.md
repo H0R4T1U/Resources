@@ -19,6 +19,8 @@ A collection of links and payloads I stored for quick access
 - [**Pass The Hash**](https://www.netwrix.com/pass_the_hash_attack_explained.html)
 - [**Print Spoofer**](https://github.com/itm4n/PrintSpoofer)
 - [**Sweet Potato**](https://github.com/uknowsec/SweetPotato)
+- [**Druva insyncCPHwnet64.exe POC**](https://github.com/tenable/poc/blob/master/druva/inSync/druva_win_cphwnet64.py)
+- [**Druva explanation**](https://www.tenable.com/security/research/tra-2020-34)
 ## Hash Cracking
 
 - [**HashCat Beginner Guide**](https://resources.infosecinstitute.com/topic/hashcat-tutorial-beginners/)
@@ -71,6 +73,7 @@ A collection of links and payloads I stored for quick access
 - [**OllyDBG**](https://www.ollydbg.de/)
 - [**checksec**](https://github.com/slimm609/checksec.sh)
 - [**LaZagne**](https://github.com/AlessandroZ/LaZagne)
+- [**File Magic Numbers**](https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5)
 # Payloads
 ## PHP Wrapper
 ```php://filter/convert.base64-encode/resource=```
