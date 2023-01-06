@@ -28,7 +28,7 @@ A collection of links and payloads I stored for quick access
 - [**Zip and rar Cracking with john**](https://dfir.science/2014/07/how-to-cracking-zip-and-rar-protected.html)
 ## Log4J
 - [**Log4j Exploatation**](https://www.sprocketsecurity.com/resources/another-log4j-on-the-fire-unifi)
-##MetaSploit Framework 
+## MetaSploit Framework 
 - [**Meterpreter Shell Basics**](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-a-reverse-shell-in-metasploit.html#step-1-generate-the-executable-payload)
 - [**Pivoting With Metasploit**](https://infinitelogins.com/2021/02/20/using-metasploit-routing-and-proxychains-for-pivoting/)
 - [**Relaying With Metasploit**](https://medium.com/axon-technologies/how-to-implement-pivoting-and-relaying-techniques-using-meterpreter-b6f5ec666795)
@@ -79,7 +79,7 @@ A collection of links and payloads I stored for quick access
 - [**LaZagne**](https://github.com/AlessandroZ/LaZagne)
 - [**File Magic Numbers**](https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5)
 # Payloads
-##SSHuttle connection
+## SSHuttle connection
 ```
 sshuttle -vr balthazar@10.10.110.110 172.16.1.0/24 -x 172.16.1.100
 ```
