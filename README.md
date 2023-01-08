@@ -81,7 +81,7 @@ A collection of links and payloads I stored for quick access
 # Payloads
 ## SSHuttle connection
 ```
-sshuttle -vr balthazar@10.10.110.110 172.16.1.0/24 -x 172.16.1.100
+sshuttle -vr balthazar@10.10.110.100 172.16.1.0/24 -x 172.16.1.100
 ```
 ## PHP Wrapper
 ```php://filter/convert.base64-encode/resource=```
