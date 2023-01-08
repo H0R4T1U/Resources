@@ -21,6 +21,9 @@ A collection of links and payloads I stored for quick access
 - [**Sweet Potato**](https://github.com/uknowsec/SweetPotato)
 - [**Druva insyncCPHwnet64.exe POC**](https://github.com/tenable/poc/blob/master/druva/inSync/druva_win_cphwnet64.py)
 - [**Druva explanation**](https://www.tenable.com/security/research/tra-2020-34)
+## ACTIVE DIRECTORY
+- [**AD Attack CHEATSHEET**](https://medium.com/@dw3113r/active-directory-attack-cheat-sheet-ea9e9744028d)
+- [**AD Exploit CHEATSHEET**](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
 ## Hash Cracking
 
 - [**HashCat Beginner Guide**](https://resources.infosecinstitute.com/topic/hashcat-tutorial-beginners/)
