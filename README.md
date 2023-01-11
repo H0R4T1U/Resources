@@ -24,8 +24,10 @@ A collection of links and payloads I stored for quick access
 ## ACTIVE DIRECTORY
 - [**AD Attack CHEATSHEET**](https://medium.com/@dw3113r/active-directory-attack-cheat-sheet-ea9e9744028d)
 - [**AD Exploit CHEATSHEET**](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+## Credentials Dumping
+- [**SAM DUMPING**](https://www.hackingarticles.in/credential-dumping-sam/)
 ## Hash Cracking
-
+- [**Rule Based Attack**](https://hashcat.net/wiki/doku.php?id=rule_based_attack)
 - [**HashCat Beginner Guide**](https://resources.infosecinstitute.com/topic/hashcat-tutorial-beginners/)
 - [**Hash Analyzer**](https://www.tunnelsup.com/hash-analyzer/)
 - [**Zip and rar Cracking with john**](https://dfir.science/2014/07/how-to-cracking-zip-and-rar-protected.html)
@@ -81,6 +83,7 @@ A collection of links and payloads I stored for quick access
 - [**checksec**](https://github.com/slimm609/checksec.sh)
 - [**LaZagne**](https://github.com/AlessandroZ/LaZagne)
 - [**File Magic Numbers**](https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5)
+- [**Rule to Rule Them ALL**](https://github.com/NotSoSecure/password_cracking_rules)
 # Payloads
 ## SSHuttle connection
 ```
