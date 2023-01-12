@@ -65,6 +65,7 @@ A collection of links and payloads I stored for quick access
 - [**SSH Tunneling**](https://0xdf.gitlab.io/2018/06/10/intro-to-ssh-tunneling.html)
 - [**Shades of Tunneling Article**](https://karol-mazurek95.medium.com/the-shades-of-tunneling-a8b6ce1d7fed)
 - [**Tunneling and Port FOrwarding**](https://book.hacktricks.xyz/generic-methodologies-and-resources/tunneling-and-port-forwarding#chisel)
+- [**Pivoting with SShuttle and ligolo-ng**](https://kentosec.com/2022/01/13/pivoting-through-internal-networks-with-sshuttle-and-ligolo-ng/)
 ## Shells
 - [**Webshells**](https://github.com/BlackArch/webshells)
 - [**Reverse Shell Generator**](https://www.revshells.com/)
